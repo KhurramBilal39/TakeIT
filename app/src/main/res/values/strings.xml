@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Takeit</string>
+    <string name="Descripation">The variation known as the cheeseburger, a slice of cheese is melted over the patty.
+        The patty itself is often seasoned or augmented with chopped onions</string>
+    <string name="Priced">price</string>
+    <string name="pecr">%d</string>
+</resources>
